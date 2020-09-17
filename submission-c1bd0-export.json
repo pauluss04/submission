@@ -1,0 +1,83 @@
+{
+    "error": false,
+    "message": "success",
+    "count": 10,
+    "places": [
+        {
+            "id": 1,
+            "like": 100,
+            "nama": "Pulau Merah",
+            "deskripsi": "Pantai pulau merah ini memiliki pasir putih yang terhampar luas sepanjang 3 Km. Dimana tidak jauh dari bibir pantai tersebut terdapat bukit kecil yang sangat cantik setinggi 200 meter.Selain pemandangan yang menawan, pantai Pulau Merah memiliki ombak yang sangat bagus setinggi 2 meter dengan panjang kurang lebih 300 meter yang dikelilingi oleh pohon mangrove.",
+            "gambar": "https://alampriangan.com/wp-content/uploads/2016/08/pantai-pulau-merah.-banyuwangi.jpg"
+        },
+        {
+            "id": 2,
+            "like": 100,
+            "nama": "Kawah Ijen",
+            "deskripsi": "Kawah Ijen adalah sebuah danau kawah yang bersifat asam yang berada di puncak Gunung Ijen dengan kedalaman danau 200 meter dan luas kawah mencapai 5.466 Hektar.",
+            "gambar": "https://cdn0-production-images-kly.akamaized.net/dk45QK6ExR79zpz0xj0p__Ubhec=/1280x720/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3176916/original/048245100_1594473694-IMG-20181208-WA0009.jpg"
+        },
+        {
+
+            "id": 3,
+            "like": 100,
+            "nama": "Taman Nasional Alas Purwo",
+            "deskripsi": "Taman Nasional Alas Purwo memiliki luas 43.420 hektar dengan ketinggian 322 meter di atas permukaan laut. Taman Nasional Alas Purwo yang sering disebut dengan TNAP merupakan hutan dengan usia tertua di Pulau Jawa.",
+            "gambar": "https://solucinum.files.wordpress.com/2017/02/gerbang-alaspurwo.jpg"
+        },
+        {
+            "id": 4,
+            "like": 100,
+            "nama": "Pantai Plengkung",
+            "deskripsi": "Pantai Plengkung atau lebih dikenal dengan nama G-Land, adalah pantai yang terletak dalam kawasan Taman Nasional Alas Purwo, Kabupaten Banyuwangi, Jawa Timur. Plengkung dapat dicapai selama setengah hari perjalanan darat dari Bali. Pantai Plengkung juga bisa dicapai dengan boat sewaan dari Bali.",
+            "gambar": "http://4.bp.blogspot.com/-ColSBDlGhJI/VJ-pp33f-FI/AAAAAAAAKUo/bQ9V9gMzdFs/s1600/Plengkung%2B1.jpg"
+        },
+        {
+            "id": 5,
+            "like": 100,
+            "nama": "Teluk Ijo",
+            "deskripsi": "Pantai teluk hijau banyuwangi dikenal dengan keindahannya yang masih alami sekali, dan juga pemandangan pantai dengan balutan pasir yang indah. Pantai teluk hijau atau Green Bay terletak di dalam area Taman nasional Meru Betiri, Sarongan-Pesanggrahan.",
+            "gambar": "http://blog.darmawisataindonesia.co.id/wp-content/uploads/2018/09/Banyuwangi.jpg"
+        },
+        {
+            "id": 6,
+            "like": 100,
+            "nama": "Pulau Tabuhan",
+            "deskripsi": "Pulau Tabuhan di Banyuwangi yang terletak di Selat Bali, “berhasil” memisahkan Jawa dan Bali dengan kecantikannya yang alami. Berada di sisi paling timur Banyuwangi, secara administratif Tabuhan adalah bagian dari Desa Bangsring, Kecamatan Wongsorejo. Untuk sampai ke sini dan menikmati pesonanya, Teman Traveler harus menggunakan perahu.",
+            "gambar": "https://joecandra.com/wp-content/uploads/2017/10/TBHN12.jpg"
+        },
+        {
+            "id": 7,
+            "like": 100,
+            "nama": "Air Terjun Coklak",
+            "deskripsi": "Keindahan air terjun Pelangi Coklak  yang terletak di Dusun Darungan di Desa Tegalharjo, Kecamatan Glenmore, Kabupaten Banyuwangi memiliki keunikan tersendiri, yakni memiliki bermacam macam warna air dan  memiliki tebing- tebing yang indah. Keunikan inilah yang menjadikan lokasi wisata ini banyak dikunjungi para wisatawan dari berbagai daerah dan juga wisatawan asing.",
+            "gambar": "https://www.gotravelly.com/blog/wp-content/uploads/2018/07/air-terjun-tirto-kemanten.jpg"
+
+        },
+        {
+            "id": 8,
+            "like": 100,
+            "nama": "Taman Nasional Baluran",
+            "deskripsi": "Taman nasional adalah sebuah kawasan yang digunakan khusus untuk melindungi berbagai macam ekosistem flora dan fauna.Luas kawasan ini kurang lebih 25.000 ribu hektar. Di kawasan ini sobat native akan disuguhkan dengan berbagai macam konservasi dan hewan-hewan alam.Terdapat hewan-hewan yang dilindungi seperti banteng, kerbau, rusa, kera berekor panjang.",
+            "gambar": "https://www.nativeindonesia.com/wp-content/uploads/2018/11/TN-Baluran-Savana-Bekol.jpg"
+
+        },
+        {
+            "id": 9,
+            "like": 100,
+            "nama": "Pantai Sukamade",
+            "deskripsi": "Pantai Sukamade atau Pantai Penyu Sukamade tour adalah surganya penyu bertelur di Banyuwangi. Pantai Sukamade merupakan habitat tempat penyu-penyu raksasa yang mulai tergolong langka untuk bertelur. Di kawasan pantai ini terdapat juga penetasan semi alami untuk menetaskan telurtelur penyu yang telah dikumpulkan oleh petugas. Disini pengunjung dapat menyaksikan secara langsung penyu bertelur, melihat penangkaran penyu serta mengikuti kegiatan pelepasan tukik (anak penyu) ke laut.",
+            "gambar": "https://www.agentwisatabromo.com/wp-content/uploads/2016/04/Pantai-Sukamade-Wisata-Banyuwangi-Jawa-Timur.jpg"
+
+        },
+        {
+            "id": 10,
+            "like": 100,
+            "nama": "Teluk Biru",
+            "deskripsi": "Teluk Blue Bay salah satu alternative  snorkeling di banyuwangi, Keindahan bawah laut Blue Bay tidak kalah dengan kedua wisata diatas. Laut disini juga masih asri dan belum terekpose, terbukti dari warna lautnya yang biru jernih.Lokasi Teluk Biru berada di Muncar Banyuwangi di balik semenanjung Sembulungan, Teluk ini masih masuk di kawasan Taman Nasional Alas Purwo.",
+            "gambar": "https://www.asliindonesia.net/wp-content/uploads/2015/03/P_20150101_1350472B-2BCopy.jpg"
+
+        }
+
+    ]
+}
